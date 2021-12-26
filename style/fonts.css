@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Proxima Nova Extra Bold';
+    src: url('fonts/Proxima Nova/ProximaNova-Extrabld.eot');
+    src: url('fonts/Proxima Nova/ProximaNova-Extrabld.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Proxima Nova/ProximaNova-Extrabld.woff') format('woff'),
+    url('fonts/Proxima Nova/ProximaNova-Extrabld.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
